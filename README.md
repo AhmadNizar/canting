@@ -1,2 +1,2 @@
 # Canting
-An iOS apps to help people learn about batik
+An iOS apps to help people learn things about batik
